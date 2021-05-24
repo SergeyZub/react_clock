@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,iBAAkB,CAClB,cAAe","file":"main.3e6c3461.chunk.css","sourcesContent":["button {\n  margin-right: 10px;\n  cursor: pointer;\n}\n"]}
